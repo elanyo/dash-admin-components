@@ -1,4 +1,4 @@
-import dash_html_components as html
+from dash import html
 import dash_admin_components as dac
 
 text_1 =  ["A wonderful serenity has taken possession of my entire soul",

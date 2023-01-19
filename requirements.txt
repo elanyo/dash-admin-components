@@ -1,2 +1,8 @@
 # dash is required to call `build:py`
 dash>=0.38.0
+
+Flask~=2.2.2
+numpy~=1.24.1
+pandas~=1.5.3
+plotly~=5.12.0
+setuptools~=65.5.1
